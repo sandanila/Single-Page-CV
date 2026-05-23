@@ -1,15 +1,7 @@
 # Single-Page-CV
+# Single-Page HTML CV
 
-A simple, structured single-page Curriculum Vitae (CV) built using only semantic HTML, focusing purely on content layout without any CSS.
+A simple single-page CV built using only semantic HTML.
 
-## 🛠️ Tech Stack
-* **HTML5**
-
-## 💻 How to Run
-1. Download or clone this repository.
-2. Open the `index.html` file in any web browser.
-
-
-## 🌐 Live Demo
-
-You can view the live website here: [Live CV Link](https://sandanila.github.io/Single-Page-CV/)
+## Project Page URL
+https://sandanila.github.io/Single-Page-CV/
