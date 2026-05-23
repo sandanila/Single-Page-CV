@@ -2,5 +2,5 @@
 
 A simple single-page CV built using only semantic HTML.
 
-## Project URL
+## project URL
 https://sandanila.github.io/Single-Page-CV/
