@@ -1,4 +1,3 @@
-# Single-Page-CV
 # Single-Page HTML CV
 
 A simple single-page CV built using only semantic HTML.
