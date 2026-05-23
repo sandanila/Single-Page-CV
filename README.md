@@ -12,4 +12,4 @@ A simple, structured single-page Curriculum Vitae (CV) built using only semantic
 
 ## 🌐 Live Demo
 
-You can view the live website here: [Live CV Link](https://github.com/sandanila/Single-Page-CV)
+You can view the live website here: [Live CV Link](https://sandanila.github.io/Single-Page-CV/)
